@@ -3,6 +3,7 @@
 2x 7 semgent LED display
 1 rotary encoder
 tranz tip120
+2x 2N3904
 1 diode
 
 1 switch
