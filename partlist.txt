@@ -1,0 +1,12 @@
+1 bell
+1 dc motor
+2x 7 semgent LED display
+1 rotary encoder
+tranz tip120
+1 diode
+
+1 switch
+1 button
+
+18pin podnozje
+header pini
